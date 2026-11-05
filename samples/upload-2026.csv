@@ -1,0 +1,76 @@
+region,indicator,period,value
+Riverside,unemployment,2026,16.6
+Riverside,poverty,2026,20.8
+Riverside,literacy,2026,73.8
+Riverside,healthcare,2026,61.7
+Riverside,housing,2026,61.7
+Hillcrest,unemployment,2026,13.2
+Hillcrest,poverty,2026,16.4
+Hillcrest,literacy,2026,73.6
+Hillcrest,healthcare,2026,57.6
+Hillcrest,housing,2026,66
+Lakeview,unemployment,2026,22.5
+Lakeview,poverty,2026,33.1
+Lakeview,literacy,2026,70.6
+Lakeview,healthcare,2026,34.6
+Lakeview,housing,2026,52
+Old Town,unemployment,2026,22.3
+Old Town,poverty,2026,29.2
+Old Town,literacy,2026,58.6
+Old Town,healthcare,2026,38.5
+Old Town,housing,2026,48.1
+Greenfield,unemployment,2026,9.4
+Greenfield,poverty,2026,19
+Greenfield,literacy,2026,81.2
+Greenfield,healthcare,2026,63.4
+Greenfield,housing,2026,80.1
+Harbor Bay,unemployment,2026,20.9
+Harbor Bay,poverty,2026,31.6
+Harbor Bay,literacy,2026,67.8
+Harbor Bay,healthcare,2026,47.8
+Harbor Bay,housing,2026,47.6
+Northgate,unemployment,2026,9.6
+Northgate,poverty,2026,12.3
+Northgate,literacy,2026,78.6
+Northgate,healthcare,2026,66.5
+Northgate,housing,2026,71.6
+Southpark,unemployment,2026,16
+Southpark,poverty,2026,22.6
+Southpark,literacy,2026,69.5
+Southpark,healthcare,2026,56.3
+Southpark,housing,2026,64.1
+Eastwood,unemployment,2026,16.5
+Eastwood,poverty,2026,20.1
+Eastwood,literacy,2026,73.3
+Eastwood,healthcare,2026,62.2
+Eastwood,housing,2026,60.6
+Westend,unemployment,2026,19.5
+Westend,poverty,2026,21.8
+Westend,literacy,2026,66.7
+Westend,healthcare,2026,53.7
+Westend,housing,2026,60.8
+Maple Heights,unemployment,2026,19
+Maple Heights,poverty,2026,27.8
+Maple Heights,literacy,2026,70.1
+Maple Heights,healthcare,2026,43.3
+Maple Heights,housing,2026,56.4
+Stonebridge,unemployment,2026,17.6
+Stonebridge,poverty,2026,23.6
+Stonebridge,literacy,2026,69.1
+Stonebridge,healthcare,2026,52.5
+Stonebridge,housing,2026,54.2
+Cedar Grove,unemployment,2026,22.7
+Cedar Grove,poverty,2026,31
+Cedar Grove,literacy,2026,58.1
+Cedar Grove,healthcare,2026,38.8
+Cedar Grove,housing,2026,48.8
+Sunnydale,unemployment,2026,21.9
+Sunnydale,poverty,2026,30.2
+Sunnydale,literacy,2026,63.2
+Sunnydale,healthcare,2026,45.2
+Sunnydale,housing,2026,51.3
+Brookside,unemployment,2026,13.5
+Brookside,poverty,2026,18.8
+Brookside,literacy,2026,85.3
+Brookside,healthcare,2026,62.2
+Brookside,housing,2026,72.3
